@@ -1,0 +1,10 @@
+streamlit
+ollama
+pandas
+pypdf
+Pillow
+torch
+diffusers
+transformers
+accelerate
+openpyxl
